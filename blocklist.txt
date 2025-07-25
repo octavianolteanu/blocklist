@@ -26,12 +26,13 @@
 ||doubleclick.net^
 ||googlesyndication.com^
 ||adcolony.com^
-unityads.unity3d.com^
+unityads.unity3d.com
 ||mopub.com^
 ||tapjoy.com^
 ||amazon-adsystem.com^
-ads.yahoo.com^
+ads.yahoo.com
 ||aacdn.net^
 ||adtng.com^
 ||ajjhumjinx.com^
 ||afcdn.net^
+||xhumfuovpduz.com^
